@@ -1,8 +1,9 @@
 <?php
 
-$var1 = true;
-$var2 = false;
+$var1 = true; //1
+$var2 = false;//
 
 // && (AND) || OR
 
-echo $var1 && $var1;
+$var3 = true && false;
+var_dump($var3);
