@@ -22,7 +22,7 @@ else {
 */
 
 $umur = 25;
-$menikah = false; // si fulan sudah menikah
+$menikah = false; // si fulan apakah sudah menikah
 
 if($umur < 22){
     echo 'Belum saatnya menikah secara UU'.PHP_EOL;
